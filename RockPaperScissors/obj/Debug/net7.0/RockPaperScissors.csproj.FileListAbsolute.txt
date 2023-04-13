@@ -1,0 +1,5 @@
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.csproj.CoreCompileInputs.cache
