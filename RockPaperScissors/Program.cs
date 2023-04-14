@@ -10,9 +10,10 @@ namespace RockPaperScissors
 {
     class Program
     {
-        static void main(string[] args)
+        public static void Main(string[] args)
         {
-            string inputPlayer, inputCpu;
+            string inputPlayer;
+            string inputCpu;
             int randomInt;
 
             Console.WriteLine("Choose between Rock, Paper and scissors: ");
@@ -67,7 +68,7 @@ namespace RockPaperScissors
                     {
                         Console.WriteLine("player Wins!!\n\n");
                     }
-                    else if (inputPlayer == "Scissors")
+                    else if (inputPlayer == "Paper")
                     {
                         Console.WriteLine("Computer Wins!!\n\n");
                     }

@@ -3,3 +3,13 @@ C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPap
 C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfoInputs.cache
 C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfo.cs
 C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.deps.json
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.dll
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.pdb
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.dll
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\refint\RockPaperScissors.dll
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.pdb
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\ref\RockPaperScissors.dll
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.exe
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.runtimeconfig.json
+C:\Users\chant\Repo\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.genruntimeconfig.cache
